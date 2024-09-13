@@ -1,4 +1,6 @@
-﻿&emsp;&emsp;这篇文章构建了信贷违约预测数据挖掘项目的一个baseline，这个项目来源于天池数据科学大赛，是一个二分类问题。
+（文章来自2022.01.08的博客）  
+
+&emsp;&emsp;这篇文章构建了信贷违约预测数据挖掘项目的一个baseline，这个项目来源于天池数据科学大赛，是一个二分类问题。
 
 &emsp;&emsp;赛题链接：https://tianchi.aliyun.com/competition/entrance/531830/introduction。
 # 1、赛题和数据介绍
