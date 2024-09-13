@@ -1,4 +1,6 @@
-﻿&emsp;&emsp;这篇文章的内容来自于天池的数据科学比赛，主要对汽车产品聚类分析。
+（文章来自2023.02.22的博客）  
+
+&emsp;&emsp;这篇文章的内容来自于天池的数据科学比赛，主要对汽车产品聚类分析。
 &emsp;&emsp;赛题链接：https://tianchi.aliyun.com/competition/entrance/531892/introduction
 # 1、赛题和数据
 ## 1.1 赛题
